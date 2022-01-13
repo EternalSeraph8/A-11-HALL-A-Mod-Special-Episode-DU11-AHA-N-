@@ -1,11 +1,13 @@
 Hello and thanks for downloading our little mod for our favorite dullahan, Yura!
 We've worked really hard to create this as a little gesture for her birthday, and we hope you enjoy playing this mod.
 
+NOTE: This repo uses GIT LFS, so it must be cloned to get the source files.  Just in case, the source files are also included in this drive folder: https://drive.google.com/file/d/1POdoS6YoFtOEIes0JLAOdQ4UVb8P8bYX/view?usp=sharing
+
 How to install:
 
 1. Backup data.win from your root directory
 
-2. Drop everything in the folder "manual" into your root directory(where "VA-11 Hall A.exe" is).
+2. Drop everything in the zip file into your root directory(where "VA-11 Hall A.exe" is).
 
 To check if you did it right, go to 'scripts' and there to 'eng'. There should be a file called "script101.txt". If not, you did it wrong.
 
